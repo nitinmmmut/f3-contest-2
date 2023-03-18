@@ -1,0 +1,26 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 25px;
+  }
+  th, td {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid #c22222;
+  }
+  th {
+    background-color: #0f0e0e;
+    color: white;
+    justify-content: center;
+  }
+
+  
+#fetch-data-button {
+    display: block;
+    padding: 7px 15px;
+    margin: 10px auto;
+    border-radius: 10px;
+    background-color: #0f0e0e;
+    color: white;
+    cursor: pointer;
+}
